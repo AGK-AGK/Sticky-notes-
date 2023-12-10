@@ -1,4 +1,4 @@
 # Sticky-notes-
 
-just for beginners 
-jsut explore the logic in js
+just for beginners , just explore the logic in js
+
