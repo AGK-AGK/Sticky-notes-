@@ -1,4 +1,3 @@
 # Sticky-notes-
 
-just for beginners , just explore the logic in js /n
--> uses local storage even if u reload the page ur data will still be there
+just for beginners , just explore the logic in js , data stored in localstorage it will stay even if u relode
